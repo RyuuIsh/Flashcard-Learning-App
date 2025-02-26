@@ -33,4 +33,6 @@ The Flashcard Learning App is an interactive tool designed to help users learn n
 - Integrate spaced repetition for more efficient learning.
 - Track learning statistics and provide performance insights.
 
+Fork this Repository & Share your thoughts!!!
 Elevate your language learning journey with this Flashcard Learning App!
+
